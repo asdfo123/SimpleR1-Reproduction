@@ -30,3 +30,5 @@ Follow instructions in [`eval/README.md`](eval/README.md).
 [simpleRL-Zoo](https://github.com/hkust-nlp/simpleRL-reason)
 
 [Qwen2.5 Math Evaluation](https://github.com/QwenLM/Qwen2.5-Math)
+
+[smolR1](https://github.com/rasdani/smolR1)
