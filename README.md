@@ -10,10 +10,10 @@ pip install -r requirements.txt
 ```
 
 
-For a two GPU setup, start vLLM first.
+For a eight GPU setup, start vLLM first.
 
 ```bash
-CUDA_VISIBLE_DEVICES=7 trl vllm-serve --model Qwen/Qwen2.5-0.5B
+CUDA_VISIBLE_DEVICES=7 trl vllm-serve --model Qwen/Qwen2.5-1.5B
 ```
 
 Then run training with
